@@ -7,6 +7,12 @@ It's been a year since I last made a game of any scale. This game is sure to blo
 
 It's a real time strategy game. You can own a kingdom, and interact with others. Do they know what you're doing? Maybe, maybe not. Only time will tell, and only _you_ can decide.
 
+Edit:
+
+You own a kingdom. It is your duty to protect your home from invaders, poverty and famine. You are to grow your kingdom fast enough that your land is able to provide for you throughout the seasons. If you do not want to take the land by force, you can begin trades and at some point, reduce the costs of delivering goods. You can either sell or trade goods, too.
+
+Your relations with the other lands depend greatly on your survival. You'll need to figure out your enemy's ties and pull strings to either destroy them or get them to ally with you.
+
 This game was inspired by a theoretical battle whereby a clan publicizes the hatred of another to draw in the hundreds of thousands of troops as aid from a neighboring country, only to turn on all of them as they pass through their territory. This game is built to withstand that kind of largescale deception.
 
 ## The thought experiment #1:
