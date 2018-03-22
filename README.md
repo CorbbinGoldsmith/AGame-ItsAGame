@@ -21,6 +21,7 @@ Here's one:
 
 The middle region, between the north and the south could fake an alliance to the south, and publicize rumors show hatred for the northern region. After some time, and threats and taunts from the northern region, the southern region would attack through the middle region. They could send troops through this area, while the middle region and the northern region band together to destroy the southern region's army.
 
+```
 +--------+
 | North  |
 +--------+
@@ -28,6 +29,7 @@ The middle region, between the north and the south could fake an alliance to the
 +--------+
 |  South |
 +--------+
+```
 
 ## Thought experiment 2
 
@@ -37,6 +39,20 @@ The point is to make the poor country give up its ways so they can progress as a
 
 The wealthy nation is located south of a group of six poor nations, the one as mentioned in the above, lying smack-dab in the middle. 
 
-These smaller nations are more agreeable, but have strong ties and trade routes with the middle nation.
+These smaller nations are more agreeable, but have strong ties and trade routes with the middle nation. In fact, the smaller center nation is dependent on these areas for their resource-rich land.
 
 
+```
+
++----------+----------+----------+
+| Nation 1 | Nation 2 | Nation 3 |
++----------+----------+----------+
+| Nation 4 |  Target  | Nation 5 |
++----------+----------+----------+
+| Nation 6 | Homeland | Nation 7 |
++----------+----------+----------+
+
+
+```
+
+Answer: surround the middle nation, and cut off all trade until they cannot sustain themselves. They will ask for aid.
